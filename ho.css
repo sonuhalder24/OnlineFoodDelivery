@@ -159,6 +159,7 @@ height: 550px;
 }
 #contact{
     position: relative;
+    z-index: -2;
 }
 #contact::before{
     content: "";

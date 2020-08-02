@@ -133,7 +133,7 @@ height: 550px;
 }
 #client-section{
     position: relative;
-   
+   z-index: -2;
 }
 #client-section::before{
     content: "";

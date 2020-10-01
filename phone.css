@@ -1,6 +1,7 @@
 #navbar{
     display: flex;
     flex-direction: column;
+    font-family: 'Sansita Swashed', cursive;
 }
 #navbar ul li a{
     font-size: 1rem;
